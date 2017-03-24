@@ -1,3 +1,3 @@
 ﻿const x = document.getElementById("content");
-x.innerText = "Innehhhhr 234";
+x.innerText = "Inne 234";
 
