@@ -1,0 +1,34 @@
+﻿h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+h2, h3 {
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    background-image: url("images/NS_SiteBackground.jpg");
+    min-height: 500px; /* Set a specified height, or the minimum height for the background image */
+    background-attachment: fixed; /* Set background image to fixed (don't scroll along with the page) */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Set the background image to no repeat */
+    background-size: cover; /* Scale the background image to be as large as possible */
+    margin: 2em;
+}
+
+#titleBar {
+    height: 177px;
+    opacity:1;
+}
+
+#nslogo {
+    opacity:0.5;
+}
+
+#topBar {
+    height: 20px;
+}
